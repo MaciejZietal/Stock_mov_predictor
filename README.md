@@ -1,6 +1,6 @@
-# Amazon share price movement predictor
+# Artifical neural network predicting movements of Amazon share price
 
-This program was made to predict the movement of the Amazon share price. It predicts if the price go up or down at the end of specific time based on the values from this time.
+This neural network was made from scratch (without dedicated libraries) to predict the movement of the Amazon share price. It predicts if the price go up or down at the end of specific time based on the values from this time.
 
 ## Code
 The main code is in _predictor.py_ file.
